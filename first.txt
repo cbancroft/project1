@@ -1,7 +1,7 @@
-My first day at git training.
+My 1st day at git training.
 
 My second day at git training.
 
-My third day at git training.
+      third day at git training.         
 
 
